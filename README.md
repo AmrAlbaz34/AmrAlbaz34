@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align='center'> Hi 👋, I'm Amr </h1>
 
-<!--
-**AmrAlbaz34/AmrAlbaz34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm a CS Student💻
 
-Here are some ideas to get you started:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="blank"> <img src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" alt="c++" width="40" height="40"/> </a> &ensp; <a href="https://www.python.org/" target="blank"> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" alt="pytohn" width="40" height="40"/> </a> &ensp; <a href="https://jupyter.org/" target="blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="jupyter" width="40" height="40"/> </a>  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h3 align="left">📫 Connect with me</h3>
+<p align="left">
+<a href=https://www.linkedin.com/in/amr-albaz-834024234 target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+</a> &ensp;
+ <a href=https://lnk.bio/AmrPI target="blank">
+<img align="center" src="https://cdn-icons-png.flaticon.com/128/282/282100.png" alt="links" height="30" width="30" />
+</a>
+</p>
