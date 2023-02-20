@@ -1,4 +1,4 @@
-<h1 align='center'> Hi 👋, I'm Amr </h1>
+<h1 align='center'> Hi 👋, <br> I'm Amr Albaz </h1>
 
 - **I'm a CS Student 💻**
 - **📫 Reach [Me](https://forms.gle/1cpWtZ4oUB1Yce2m7)**
