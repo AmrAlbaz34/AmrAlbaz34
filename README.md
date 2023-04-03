@@ -29,3 +29,6 @@
 <img align="center" src="https://cdn-icons-png.flaticon.com/128/282/282100.png" alt="links" height="30" width="30" />
 </a>
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AmrAlbaz34&label=Profile%20views&color=0e75b6&style=flat" alt="AmrAlbaz34" /> </p>
+
