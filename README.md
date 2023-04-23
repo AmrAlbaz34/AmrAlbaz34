@@ -9,9 +9,10 @@
 <a href="https://www.w3schools.com/c/" target="_blank"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="45" height="45"/> </a> &ensp; 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://skillicons.dev/icons?i=cpp" alt="c++" width="45" height="45"/> </a> &ensp; 
 <a href="https://www.python.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=python" alt="pytohn" width="45" height="45"/> </a> &ensp;
-<a href="https://jupyter.org/" target="_blank"> <img src="https://cdn.discordapp.com/attachments/1084564984584994857/1092595550974640138/0000.png" alt="jupyter" width="45" height="45" style="border-radius: 50%;">
- </a>&ensp;
-
+<a href="https://numpy.org/doc/1.23/index.html" target="_blank"> <img src="https://img.icons8.com/color/256/numpy.png" alt="numpy" width="48" height="48"/> </a> &ensp; 
+<a href="https://pandas.pydata.org/docs/index.html" target="_blank"> <img src="https://img.icons8.com/color/256/pandas.png" alt="pandas" width="48" height="48"/> </a> &ensp;
+<a href="https://jupyter.org/" target="_blank"> <img src="https://cdn.discordapp.com/attachments/1084564984584994857/1092595550974640138/0000.png" alt="jupyter" width="45" height="45" style="border-radius: 50%;"></a>&ensp;
+ 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amralbaz34&layout=compact&theme=radical) <br>
 ![amr's GitHub stats](https://github-readme-stats.vercel.app/api?username=amralbaz34&show_icons=true&theme=radical)
 -->
@@ -31,6 +32,4 @@
 <img align="center" src="https://img.icons8.com/bubbles/256/link.png" alt="links" height="56" width="56" />
 </a>
 </p>
-
-
 <br/>
