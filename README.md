@@ -11,7 +11,6 @@
 <a href="https://www.python.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=python" alt="pytohn" width="45" height="45"/> </a> &ensp;
 <a href="https://jupyter.org/" target="_blank"> <img src="https://cdn.discordapp.com/attachments/1084564984584994857/1092595550974640138/0000.png" alt="jupyter" width="45" height="45" style="border-radius: 50%;">
  </a>&ensp;
- <a href="https://colab.research.google.com/" target="_blank"> <img src="https://cdn.discordapp.com/attachments/1084564984584994857/1092596473771860038/001.png" alt="Colab" width="45" height="45"/> </a>
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amralbaz34&layout=compact&theme=radical) <br>
 ![amr's GitHub stats](https://github-readme-stats.vercel.app/api?username=amralbaz34&show_icons=true&theme=radical)
@@ -22,10 +21,14 @@
 ## <img src="https://media.giphy.com/media/gIkM6hiJfvSIIJCnKy/giphy.gif" width="5%"> Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/albazamr/" target="_blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="42" width="42" />
+<img align="center" src="https://img.icons8.com/bubbles/256/linkedin.png" alt="linkedin" height="56" width="56" />
 </a> &ensp;
- <a href=https://lnk.bio/AmrPI target="_blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/128/282/282100.png" alt="links" height="30" width="30" />
+<a href="https://www.kaggle.com/amralbaz" target="_blank">
+<img align="center" src="https://img.icons8.com/bubbles/256/kaggle.png" alt="Kaggle" height="56" width="56" />
+ </a>
+&ensp;
+<a href=https://lnk.bio/AmrPI target="_blank">
+<img align="center" src="https://img.icons8.com/bubbles/256/link.png" alt="links" height="56" width="56" />
 </a>
 </p>
 
